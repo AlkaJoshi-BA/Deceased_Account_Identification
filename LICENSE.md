@@ -15,4 +15,4 @@ Under the following terms:
 No additional permissions are granted for commercial use.  
 If you wish to use this project or any part of it for commercial purposes, you must obtain **written permission** from the author.
 
-Full license details: https://creativecommons.org/licenses/by-nc/4.0/
+
